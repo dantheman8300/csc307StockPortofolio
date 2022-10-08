@@ -1,0 +1,25 @@
+{
+  "name": "csc307stockportofolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest", 
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantheman8300/csc307StockPortofolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dantheman8300/csc307StockPortofolio/issues"
+  },
+  "homepage": "https://github.com/dantheman8300/csc307StockPortofolio#readme",
+  "devDependencies": {
+    "@types/jest": "^29.1.2",
+    "ts-jest": "^29.0.3"
+  }
+}
